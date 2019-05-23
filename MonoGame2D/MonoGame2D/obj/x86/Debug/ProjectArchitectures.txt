@@ -1,0 +1,1 @@
+C:\Users\TP\Documents\Projects\Games\MonoGame2D\MonoGame2D\MonoGame2D.csproj;x86

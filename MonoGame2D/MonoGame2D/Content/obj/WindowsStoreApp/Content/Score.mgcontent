@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SourceFile>C:/Users/TP/Documents/Projects/Games/MonoGame2D/MonoGame2D/Content/Score.spritefont</SourceFile>
+  <SourceTime>2019-05-23T11:27:17.6103235+02:00</SourceTime>
+  <DestFile>C:/Users/TP/Documents/Projects/Games/MonoGame2D/MonoGame2D/Content/bin/WindowsStoreApp/Content/Score.xnb</DestFile>
+  <DestTime>2019-05-23T13:32:40.0235906+02:00</DestTime>
+  <Importer>FontDescriptionImporter</Importer>
+  <ImporterTime>2018-12-08T17:35:54+01:00</ImporterTime>
+  <Processor>FontDescriptionProcessor</Processor>
+  <ProcessorTime>2018-12-08T17:35:54+01:00</ProcessorTime>
+  <Parameters>
+    <Key>PremultiplyAlpha</Key>
+    <Value>True</Value>
+  </Parameters>
+  <Parameters>
+    <Key>TextureFormat</Key>
+    <Value>Compressed</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>

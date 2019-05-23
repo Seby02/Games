@@ -1,0 +1,8 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"C:/Users/TP/source/repos/MonoGame2D/MonoGame2D/Content/broccoli.png","C:/Users/TP/source/repos/MonoGame2D/MonoGame2D/Content/bin/WindowsStoreApp/broccoli.xnb","TextureProcessor","Texture2DContent",22119,1872085,0,1392656
+"C:/Users/TP/source/repos/MonoGame2D/MonoGame2D/Content/game-over.png","C:/Users/TP/source/repos/MonoGame2D/MonoGame2D/Content/bin/WindowsStoreApp/game-over.xnb","TextureProcessor","Texture2DContent",19168,262229,0,0149236
+"C:/Users/TP/source/repos/MonoGame2D/MonoGame2D/Content/GameState.spritefont","C:/Users/TP/source/repos/MonoGame2D/MonoGame2D/Content/bin/WindowsStoreApp/GameState.xnb","FontDescriptionProcessor","SpriteFontContent",2009,267281,0,1655572
+"C:/Users/TP/source/repos/MonoGame2D/MonoGame2D/Content/grass.png","C:/Users/TP/source/repos/MonoGame2D/MonoGame2D/Content/bin/WindowsStoreApp/grass.xnb","TextureProcessor","Texture2DContent",25767,8294485,0,2049704
+"C:/Users/TP/source/repos/MonoGame2D/MonoGame2D/Content/ninja-cat-dino.png","C:/Users/TP/source/repos/MonoGame2D/MonoGame2D/Content/bin/WindowsStoreApp/ninja-cat-dino.xnb","TextureProcessor","Texture2DContent",57366,145741,0,0164624
+"C:/Users/TP/source/repos/MonoGame2D/MonoGame2D/Content/Score.spritefont","C:/Users/TP/source/repos/MonoGame2D/MonoGame2D/Content/bin/WindowsStoreApp/Score.xnb","FontDescriptionProcessor","SpriteFontContent",2008,136209,0,0421032
+"C:/Users/TP/source/repos/MonoGame2D/MonoGame2D/Content/start-splash.png","C:/Users/TP/source/repos/MonoGame2D/MonoGame2D/Content/bin/WindowsStoreApp/start-splash.xnb","TextureProcessor","Texture2DContent",24187,8294485,0,2142559
