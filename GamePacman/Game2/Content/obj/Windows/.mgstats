@@ -1,0 +1,4 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"C:/Users/Sebino/source/repos/Game2/Game2/Content/fantom-red.png","C:/Users/Sebino/source/repos/Game2/Game2/Content/bin/Windows/fantom-red.xnb","TextureProcessor","Texture2DContent",383,6357,0,2109332
+"C:/Users/Sebino/source/repos/Game2/Game2/Content/pacman.png","C:/Users/Sebino/source/repos/Game2/Game2/Content/bin/Windows/pacman.xnb","TextureProcessor","Texture2DContent",400,5493,0,0379883
+"C:/Users/Sebino/source/repos/Game2/Game2/Content/world.png","C:/Users/Sebino/source/repos/Game2/Game2/Content/bin/Windows/world.xnb","TextureProcessor","Texture2DContent",167062,222293,0,0709777
